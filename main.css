@@ -1,0 +1,26 @@
+html{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(32, 32, 32);
+}
+.nav{
+    justify-content: center;
+}
+.nav-link{
+    color: aliceblue;
+    font-weight: bold;
+}
+.j-img{
+    height: 30vh;
+}
+
+
+.jumbotron{
+    height: 70%;
+    text-align: center;
+}
